@@ -12,7 +12,6 @@ Learning Goals
 * Viewport Units
 * Favicon
 * Mobile Manifest
-* 
 
 
 Installation: Prod:
